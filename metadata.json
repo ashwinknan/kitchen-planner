@@ -1,0 +1,5 @@
+{
+  "name": "Smart Kitchen Planner",
+  "description": "An AI-powered cooking scheduler that optimizes multiple recipes into a single, parallelized timeline for one cook with three stoves.",
+  "requestFramePermissions": []
+}
